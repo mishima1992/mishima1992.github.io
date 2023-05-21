@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://mishima1992.github.io/tv.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/mishima1992/mishima1992.github.io/epg/tv.xml.gz"
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/zz6rbAOYJVuknv34leg4YL5XRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9430/8da81c.png" group-title="Lokal", World Cup 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0","origin":"https://www.vidio.com","referer":"https://www.vidio.com/"}
